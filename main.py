@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('added new branch1')
+    print('added new branch2')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
